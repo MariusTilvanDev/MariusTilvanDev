@@ -16,5 +16,7 @@ About my skills:
 🤝 Do you need software solutions for your business? Let's discuss!
 
 📧 marius.tilvan.dev@gmail.com
+
 👉 https://www.linkedin.com/in/marius-tilvan/
+
 💬 https://join.skype.com/invite/aT8C54Y4iyNF
