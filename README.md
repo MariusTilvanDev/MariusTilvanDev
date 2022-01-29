@@ -1,4 +1,4 @@
-👋 I am a senior .NET & Angular Full-Stack consultant / contractor / freelancer with 8+ years of experience, only interested in remote work.
+👋 I am a senior Angular & .NET Full-Stack consultant / contractor / freelancer with 8+ years of experience, only interested in remote work.
 
 About my skills: <br />
 ✅ Frontend:  <br />
