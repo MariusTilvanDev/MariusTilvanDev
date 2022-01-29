@@ -1,16 +1,20 @@
-### Hi there 👋
+👋 I am a senior .NET & Angular Full-Stack consultant / contractor / freelancer with 8+ years of experience, only interested in remote work.
 
-<!--
-**MariusTilvanDev/MariusTilvanDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About my skills:
+✅ Frontend: 
+• Angular, Aurelia
+• Typescript, JavaScript
+• NgRx, Swagger
+• Bootstrap
+✅ Backend: 
+• .NET, C#
+• Microsoft Azure, Docker
+• SQL Server/T-SQL, Entity Framework
 
-Here are some ideas to get you started:
+💻 Only interested in remote work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 Do you need software solutions for your business? Let's discuss!
+
+📧 marius.tilvan.dev@gmail.com
+👉 https://www.linkedin.com/in/marius-tilvan/
+💬 https://join.skype.com/invite/aT8C54Y4iyNF
