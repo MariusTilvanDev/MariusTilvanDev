@@ -1,5 +1,9 @@
 👋 I am a senior .NET & Angular Full-Stack consultant / Angular Contributor / Contractor / Freelancer with 8+ years of experience, only interested in remote work.
 
+✔️ Proud to be 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐨𝐫 to the 𝐀𝐧𝐠𝐮𝐥𝐚𝐫 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤, since is moving forward the frontend development.
+
+✏️ 𝐓𝐞𝐜𝐡 𝐖𝐫𝐢𝐭𝐞𝐫 at 𝐇𝐚𝐜𝐤𝐞𝐫𝐍𝐨𝐨𝐧, one of the leading tech publications.
+
 About my skills: <br />
 ✅ Frontend:  <br />
 • Angular, Aurelia <br />
