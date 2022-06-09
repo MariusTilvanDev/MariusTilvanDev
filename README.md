@@ -1,4 +1,4 @@
-👋 I am a senior .NET & Angular Full-Stack consultant / Angular Contributor / contractor / freelancer with 8+ years of experience, only interested in remote work.
+👋 I am a senior .NET & Angular Full-Stack consultant / Angular Contributor / Contractor / Freelancer with 8+ years of experience, only interested in remote work.
 
 About my skills: <br />
 ✅ Frontend:  <br />
@@ -15,6 +15,6 @@ About my skills: <br />
 
 🤝 Do you need software solutions for your business? Let's discuss!
 
-📧 marius.tilvan.dev@gmail.com <br />
+📧 marius.tilvan.it@gmail.com <br />
 👉 https://www.linkedin.com/in/marius-tilvan/ <br />
-💬 https://join.skype.com/invite/aT8C54Y4iyNF <br />
+💬 https://join.skype.com/invite/JhjxAsTYSU5C <br />
