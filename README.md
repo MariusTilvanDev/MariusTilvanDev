@@ -1,4 +1,4 @@
-👋 I am a senior Angular & .NET Full-Stack consultant / Angular Contributor / Contractor / Freelancer with 9+ years of experience, only interested in remote work.
+👋 I am a senior Angular & .NET Full-Stack consultant / Angular Contributor / Contractor / Freelancer with 10 years of experience, only interested in remote work.
 
 ✔️ Proud to be 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐨𝐫 to the 𝐀𝐧𝐠𝐮𝐥𝐚𝐫 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤, since is moving forward the frontend development.
 
@@ -12,7 +12,7 @@ About my skills: <br />
 • Bootstrap <br />
 ✅ Backend:  <br />
 • .NET, C# <br />
-• Microsoft Azure, Docker <br />
+• Microsoft Azure, GCP, Docker <br />
 • SQL Server/T-SQL, Entity Framework <br />
 
 💻 Only interested in remote work.
